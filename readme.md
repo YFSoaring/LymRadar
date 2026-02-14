@@ -18,11 +18,5 @@
     Saves the final tensors as .npy files (NumPy array) for model input.
 4. Inference and Testing
   Once the data is converted to .npy format, use Test.py to load the model weights and generate predictions.
-5. File Structure Structure
-  Please maintain the following directory structure for seamless execution:
-Project_Root/
-  ├── DataPre.py (Script for data preprocessing)
-  ├── Test.py (Script for model inference)
-  ├── LymRadar.pt (Pre-trained model weights)
-  ├── requirements.txt (List of dependencies)
-  └── README.md (Documentation)
+  The Trained Model and weight File shared via cloud drive: LymRadarModelTrained.pt
+  Link: https://pan.baidu.com/s/1v-c4k93RIJm1_TUDtE4Yfw Extraction code: f8m6
