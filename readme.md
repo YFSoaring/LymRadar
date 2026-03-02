@@ -6,7 +6,7 @@
     It is recommended to use Conda to manage the environment and avoid dependency conflicts.
   2.2 Install Dependencies
     Install all required Python packages listed in requirements.txt.
-3. Data Preparation
+3. Data Preparation 
   Before running the model, raw medical images must be preprocessed into a unified format and size using the DataPre.py script.
   3.1 Input Requirements
     Data Type: Co-registered PET and CT images.
@@ -18,6 +18,9 @@
     Saves the final tensors as .npy files (NumPy array) for model input.
 4. Inference and Testing
   Once the data is converted to .npy format, use Test.py to load the model weights and generate predictions.
-  The Trained Model and weight File shared via cloud drive: LymRadarModelTrained.pt
+  The Trained Model and weight File are shared via cloud drive: LymRadarModelTrained.pt
   Link: https://pan.baidu.com/s/1v-c4k93RIJm1_TUDtE4Yfw Extraction code: f8m6
+  The example data is shared via cloud drive: ExampleData.zip
+  Link： https://pan.baidu.com/s/1CqBQpOwXyGlLk_vaYmqosQ Extraction code: h8ji
+
 
