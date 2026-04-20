@@ -19,8 +19,8 @@
 4. Inference and Testing
   Once the data is converted to .npy format, use Test.py to load the model weights and generate predictions.
   The Trained Model and weight File are shared via cloud drive: LymRadarModelTrained.pt
-  Link: https://pan.baidu.com/s/1v-c4k93RIJm1_TUDtE4Yfw Extraction code: f8m6
+  Link: https://drive.google.com/file/d/1ZXT5MINh8I5WARztbkNhIFM-wWAflkIi/view?usp=sharing
   The example data is shared via cloud drive: ExampleData.zip
-  Link： https://pan.baidu.com/s/1CqBQpOwXyGlLk_vaYmqosQ Extraction code: h8ji
+  Link：https://drive.google.com/file/d/132WxPagRujTP563JYjFZc0WhLaJiB2gQ/view?usp=sharing
 
 
